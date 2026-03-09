@@ -1,0 +1,17 @@
+[1G[0K⠙[1G[0K
+> rest-express@1.0.0 dev:client
+> vite dev --port 5000
+
+[1G[0K⠙[1G[0K
+
+
+
+[1;1H[0J
+  [32m[1mVITE[22m v7.3.1[39m  [2mready in [0m[1m1468[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.31.86.162:[1m5000[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[RUNTIME_ERROR]{"type":"runtime-error","timestamp":1773045229349,"name":"Error","message":"(unknown runtime error)","stack":"    at sendError (https://202a8234-39cc-4204-9010-9714f9b096cb-00-1gwsy8ij5j1eu.worf.replit.dev/:10:13)\n    at https://202a8234-39cc-4204-9010-9714f9b096cb-00-1gwsy8ij5j1eu.worf.replit.dev/:24:3"}
+[RUNTIME_ERROR]{"type":"runtime-error","timestamp":1773045229350,"name":"Error","message":"Cannot redefine property: ethereum","stack":"    at Object.defineProperty (<anonymous>)\n    at chrome-extension://mfgccjchihfkkindfppnaooecgfneiii/inpage.js:144:219647"}
+[RUNTIME_ERROR]{"type":"runtime-error","timestamp":1773045229350,"name":"Error","message":"(unknown runtime error)","stack":"    at sendError (https://202a8234-39cc-4204-9010-9714f9b096cb-00-1gwsy8ij5j1eu.worf.replit.dev/:10:13)\n    at https://202a8234-39cc-4204-9010-9714f9b096cb-00-1gwsy8ij5j1eu.worf.replit.dev/:24:3"}
